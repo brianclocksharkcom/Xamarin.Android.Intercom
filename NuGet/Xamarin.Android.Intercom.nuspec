@@ -6,7 +6,7 @@
     <version>6.1.0</version>
     <title>Xamarin Android Intercom</title>
     <authors>Brian Buie</authors>
-    <projectUrl>https://github.com/DouglasGiovanella/Xamarin.Android.Intercom</projectUrl>
+    <projectUrl>https://github.com/brianclocksharkcom/Xamarin.Android.Intercom</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>The Intercom Xamarin SDK, for integrating Intercom into your Xamarin Android application.</description>
     <tags>xamarin, android, intercom</tags>
