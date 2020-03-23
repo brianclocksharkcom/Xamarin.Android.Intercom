@@ -2,7 +2,7 @@
 
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
-    <id>Xamarin.Android.Intercom</id>
+    <id>Xamarin.Android.Intercom.V6</id>
     <version>6.1.0</version>
     <title>Xamarin Android Intercom</title>
     <authors>Brian Buie</authors>
